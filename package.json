@@ -1,0 +1,12 @@
+{
+    "name": "com.kingdox.uniflux.database",
+    "displayName": "UniFlux.Database",
+    "author": { "name": "Xavier Thomas Peter Arpa López ('Kingdox')", "url": "https://github.com/kingdox/Uniflux.Database" },
+    "version": "1.0.0",
+    "unity": "2020.1",
+    "description": "Firebase Realtime Database module with UniFlux.",
+    "keywords": [ "Flux", "Unity", "UniFlux"],
+    "license": "MIT",
+    "category": "Flux",
+    "dependencies": {}
+}
